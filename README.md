@@ -1,8 +1,6 @@
-# time-tracker
+# Time-Tracker
 Java (Maven) application for tracking time on the job
 
-Time tracker
+## Purpose
 
-## Causing Trouble
-
-This is a test edit to cause trouble.
+There once was a man from Nantucket...
